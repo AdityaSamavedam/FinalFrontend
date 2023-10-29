@@ -68,7 +68,7 @@ $(function () {
         {
             imageLink: "https://books.google.com/books/content?id=OYtkbGl2j0sC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1MSNBHQqn6MwhmA9ikg0eEko4Zxg&w=1280",
             bookName: "Farenheit 451!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://cdn.kobo.com/book-images/e278c62e-943a-473e-846a-3e19bce5b5d8/1200/1200/False/heart-of-darkness-12.jpg",
@@ -88,67 +88,67 @@ $(function () {
         {
             imageLink: "https://m.media-amazon.com/images/I/51iAfmaFDjL._SY445_SX342_.jpg",
             bookName: "Atlas Shrugged!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/41VWMa8-aeS._SY445_SX342_.jpg",
             bookName: "The Adventures Of Tom Sawyer!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Invisible_Man_%281952_1st_ed_jacket_cover%29.jpg",
             bookName: "The Invisible Man!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/61yjELh+20L._AC_UF1000,1000_QL80_.jpg",
             bookName: "Farewell to Arms!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/51CQJREy9xL._AC_UF350,350_QL80_.jpg",
             bookName: "The Bell Jar!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780684842370/the-age-of-innocence-9780684842370_hr.jpg",
             bookName: "The Age Of Innocence!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://upload.wikimedia.org/wikipedia/en/9/99/Catch22.jpg",
             bookName: "Catch-22!",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/515o+3oBm0L._SY445_SX342_.jpg",
             bookName: "The Catcher in the Rye",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Of_Mice_and_Men_%281937_1st_ed_dust_jacket%29.jpg",
             bookName: "Of Mice and Men",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/51hkNOLyQiL.jpg",
             bookName: "On the Road",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/51zG5JVj+uL._SY445_SX342_.jpg",
             bookName: "Walden",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/810kz44eWfL._AC_UF1000,1000_QL80_.jpg",
             bookName: "Lolita",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/81UkfvI7x-L._AC_UF1000,1000_QL80_.jpg",
             bookName: "Leaves of Grass",
-            link: "http://127.0.0.1:5500/bookInfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html",
         },
         // Add more book objects as needed
     ];

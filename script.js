@@ -48,17 +48,17 @@ $(function () {
         {
             imageLink: "https://prodimage.images-bn.com/pimages/9780743273565_p0_v14_s1200x630.jpg",
             bookName: "The Great Gatsby",
-            link: "http://127.0.0.1:5500/Bookinfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html?bookName=The%20Great%20Gatsby",
         },
         {
             imageLink: "https://images.penguinrandomhouse.com/cover/9780307383419",
             bookName: "Dreams From My Father",
-            link: "http://127.0.0.1:5500/Bookinfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html?bookName=Dreams%20From%20My%20Father",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/814oeXzxhML._AC_UF350,350_QL50_.jpg",
             bookName: "The Grapes of Wrath!",
-            link: "http://127.0.0.1:5500/Bookinfo.html",
+            link: "http://127.0.0.1:5500/Bookinfo.html?bookName=The%20Grapes%20of%20Wrath",
         },
         {
             imageLink: "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg",
